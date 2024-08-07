@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://srintin.github.io/sitemap.html.gz
+Sitemap: https://srintin.github.io/app/sitemap.html.gz
+Sitemap: https://srintin.github.io/assets/sitemap.html.gz
+Sitemap: https://srintin.github.io/css/sitemap.html.gz
+Sitemap: https://srintin.github.io/includes/sitemap.html.gz
+Sitemap: https://srintin.github.io/item/sitemap.html.gz
+Sitemap: https://srintin.github.io/src/sitemap.html.gz
